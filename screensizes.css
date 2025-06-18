@@ -1,0 +1,84 @@
+.fullcontent{
+    width: 100%;
+    height: 100%;
+}
+
+.w-full{
+    width: 99vw;
+}
+
+.h-full{
+    height: 99vh;
+}
+
+.w-80{
+    width: 80vw;
+}
+
+.h-80{
+    height: 80vh;
+}
+
+.w-60{
+    width: 60vw;
+}
+
+.h-60{
+    height: 60vh;
+}
+
+.w-50{
+    width: 50vw;
+}
+
+.h-50{
+    height: 50vh;
+}
+
+.w-40{
+    width: 40vw;
+}
+
+.h-40{
+    height: 40vh;
+}
+
+.w-30{
+    width: 30vw;
+}
+
+.h-30{
+    height: 30vh;
+}
+
+.w-20{
+    width: 20vw;
+}
+
+.h-20{
+    height: 20vh;
+}
+
+.w-5{
+    width: 5vw;
+}
+
+.h-5{
+    height: 5vh;
+}
+
+.w-fit{
+    width: fit-content;
+}
+
+.h-fit{
+    height: fit-content;
+}
+
+.p-0{
+    padding: 0px;
+}
+
+.m-0{
+    margin: 0px;
+}
